@@ -1,1 +1,1 @@
-echo "ho ja bhai dhdldhdkd d ."
+echo "clinic all clear"
